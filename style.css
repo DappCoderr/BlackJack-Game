@@ -5,7 +5,7 @@ body{
     text-align: center;
     color: white;
     font-weight: bold;
-
+    text-align: center;
 }
 
 h1{
@@ -20,9 +20,11 @@ button{
     color: #016f32;
     font-size: 16px;
     width: 150px;
-    height: 35px;
     background: goldenrod;
     border: none;
+    padding: 5px 0px;
     border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
 }
 

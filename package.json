@@ -1,0 +1,19 @@
+{
+  "name": "blackjack-game",
+  "version": "1.0.0",
+  "description": "Building Blackjack game usign HTML CSS and JS. Blackjack is the most widely played casino game in the world. The game is played with decks of 52 cards.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DappCoderr/BlackJack-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DappCoderr/BlackJack-Game/issues"
+  },
+  "homepage": "https://github.com/DappCoderr/BlackJack-Game#readme"
+}
